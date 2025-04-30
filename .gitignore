@@ -16,3 +16,8 @@ env/
 # sysfile
 .DS_Store        # macOS系统文件
 Thumbs.db        # Windows系统文件
+
+# Ignore all HTML report files
+*.html
+report/*.html
+
